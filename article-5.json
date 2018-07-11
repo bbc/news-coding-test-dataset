@@ -1,0 +1,26 @@
+{
+  "title": "Nulla nibh erat, pharetra at ultricies nec, tincidunt luctus arcu",
+  "body": [
+    {
+      "type": "heading",
+      "model": {
+        "text": "Nulla nibh erat, pharetra at ultricies nec, tincidunt luctus arcu"
+      }
+    },
+    {
+      "type": "image",
+      "model": {
+        "url": "https://picsum.photos/200/300/?random",
+        "altText": "Donec purus augue, lobortis et velit maximus, rutrum scelerisque ipsum",
+        "height": "200",
+        "width": "300"
+      }
+    },
+    {
+      "type": "paragraph",
+      "model": {
+        "text": "Etiam at nisl diam. Suspendisse id erat a nibh rutrum consectetur. Ut porttitor arcu id nibh pellentesque, et laoreet sapien accumsan. Phasellus quis finibus ipsum. Cras malesuada eu arcu sed laoreet. Nulla egestas ac eros vel eleifend. Nam porta ornare nisl, quis gravida dolor sagittis a."
+      }
+    }
+  ]
+}
