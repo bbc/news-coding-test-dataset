@@ -14,24 +14,6 @@
       }
     },
     {
-      "type": "image",
-      "model": {
-        "url": "https://picsum.photos/200/300/?random",
-        "altText": "Phasellus vel volutpat elit. Suspendisse commodo turpis ac tortor condimentum, eget luctus urna aliquam",
-        "height": "200",
-        "width": "300"
-      }
-    },
-    {
-      "type": "image",
-      "model": {
-        "url": "https://picsum.photos/200/300/?random",
-        "altText": "Etiam sit amet imperdiet nisl, ut eleifend arcu",
-        "height": "200",
-        "width": "300"
-      }
-    },
-    {
       "type": "list",
       "model": {
         "type": "unordered",

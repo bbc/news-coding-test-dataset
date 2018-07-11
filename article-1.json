@@ -16,10 +16,10 @@
     {
       "type": "image",
       "model": {
-        "url": "https://picsum.photos/200/300/?random",
+        "url": "https://picsum.photos/640/420/?random",
         "altText": "Vestibulum pellentesque laoreet urna, eget dignissim lorem maximus vel",
-        "height": "200",
-        "width": "300"
+        "height": "420",
+        "width": "640"
       }
     },
     {
